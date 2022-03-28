@@ -81,7 +81,7 @@
 - [Git](#Git)
 - [数字信号](#数字信号)
 - [提升能力](#提升能力)
-- [声明](#声明)
+
 # 面试宝典
 - 程序员的算法趣题       [百度云下载链接](https://pan.baidu.com/s/1nW6j_0PjpecwgblpseEE2g )  密码:5vnv
 - 程序员代码面试指南：IT 名企算法与数据结构题目最优解      [百度云下载链接](https://pan.baidu.com/s/10u8cLRCgBE4c4DsB0Zn3IA)  密码:5jpz
