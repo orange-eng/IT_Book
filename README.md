@@ -38,6 +38,14 @@
  
 直接在B站搜就行，这三个up主的视频够学习一年了，而且包含了CV中最经典的研究领域，很友好。
 
+#### 视频教程
+这里有我当时上手CV时的一些经典教程，个人感觉还是跟着视频学习，效率更高，大家根据自己的情况选择即可：
+
+- OpenCV https://www.bilibili.com/video/BV1PV411774y?spm_id_from=333.337.search-card.all.click
+- pytorch https://www.bilibili.com/video/BV1CZ4y1w7mE?spm_id_from=333.337.search-card.all.click
+- 卷积神经网络 https://www.bilibili.com/video/BV1b7411T7DA?spm_id_from=333.337.search-card.all.click (把这个系列的都看完即可)
+
+注：一定要自己动手打一遍代码才行，光看是没用的
 
 # 书籍链接
 
